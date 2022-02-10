@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Alexei76/-Lesson-9-HW#readme",
   "description": "",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
